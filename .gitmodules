@@ -1,0 +1,6 @@
+[submodule "ssl/ssl-client"]
+	path = ssl/ssl-client
+	url = https://github.com/namu6747/ssl-client.git
+[submodule "ssl/ssl-server"]
+	path = ssl/ssl-server
+	url = https://github.com/namu6747/ssl-server.git
