@@ -30,6 +30,8 @@ server.ssl.trust-store=classpath:cli.jks
 server.ssl.trust-store-password=123456
 ```
 
+---
+
 - 서버 애플리케이션 실행 후 클라이언트 애플리케이션의 SslApplicationTests.contextLoads() 실행
 - 클라이언트 애플리케이션에서 SSLContext 초기화된 Http Request 전용 빈 등록해보기
 - 다중 서버로 KeyStore N : M 구조 실행해보기
